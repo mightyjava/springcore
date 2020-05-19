@@ -31,5 +31,13 @@
 		<module>beanfactory-filesystem</module>
 		<module>applicationcontext-classpath</module>
 		<module>applicationcontext-filesystem</module>
+		<module>lifecycle</module>
+		<module>scopes</module>
+		<module>listener</module>
+		<module>custom-event</module>
+		<module>annotation</module>
+		<module>annotation-multiple</module>
+		<module>annotation-multiple-dependent</module>
+		<module>autowired</module>
 	</modules>
 </project>
